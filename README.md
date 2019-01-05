@@ -3,7 +3,7 @@
 This project was designed to act as an inventory so that members of the lab
 could check in and check out various items such as batteries, propellers, etc.
 
-##Design
+## Design
  * Uses javafx gui
  * Leverages GUI components such as drop down lists, row selection, and buttons
 
